@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemAddGamesIdUrlDescription">Spiel(e) mit Steam-Id oder URL importieren</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemAddGamesDepressurizerDescription">Spiel(e) aus Depressurizer-Profil importieren</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_ResultsMessage">{0} neue Steam-Spiele hinzugefügt.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_RequestInputSteamIdUrlMessage">Steam-Spiel-Id oder URL eingeben:</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InvalidSteamIdWarningMessage" xml:space="preserve">Warnung. Konnte nicht überprüfen, ob AppId &quot;{0}&quot; gültig ist.
+Füge diese und alle unbekannten AppIds hinzu?</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_GameInformationDownloadFailMessage">Fehler beim Herunterladen der Spielinformationen für AppId &quot;{0}&quot;. Fehler: {1}</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InputNoValidAppIdsMessage">Konnte keine gültige Steam-AppID finden.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemImportInstalledDescription">Spiele aus installierten Steam-Spielen importieren</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemFixInstalledStateDescription">Installationsstatus und Installationsverzeichnis von Steam-Spielen reparieren</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemFillImagesDescription">Fehlende Cover, Hintergründe und Symbole aus dem lokalen Steam-Cache ergänzen</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InstalledGamesWindowTitle">Installierte Steam-Spiele</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_SelectAllButton">Alle auswählen</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_AddButton">Hinzufügen</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_CancelButton">Abbrechen</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_NoNewInstalledGamesMessage">Keine neuen installierten Steam-Spiele gefunden.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_FixInstalledStateResultsMessage">{0} Spiele aktualisiert.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_FillImagesResultsMessage">{0} Spiele mit Bildern aus dem lokalen Steam-Cache aktualisiert.</sys:String>
+</ResourceDictionary>
