@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemAddGamesIdUrlDescription">Játék(ok) importálása Steam azonosítóval vagy URL-címmel</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemAddGamesDepressurizerDescription">Játék(ok) importálása a Depressurizer profilból</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_ResultsMessage">Új Steam játékok hozzáadása {0}.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_RequestInputSteamIdUrlMessage">Adja meg a Steam játék azonosítóját vagy URL-címét:</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InvalidSteamIdWarningMessage" xml:space="preserve">Figyelmeztetés. Nem sikerült ellenőrizni, hogy a kapott AppId &quot;{0}&quot; érvényes-e. 
+Adja hozzá ezt és az összes ismeretlen AppId-t?</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_GameInformationDownloadFailMessage">Hiba a &quot;{0}&quot; alkalmazásazonosítóhoz tartozó játékinformációk letöltése. Hiba: {1}</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InputNoValidAppIdsMessage">Nem sikerült érvényes Steam AppId-t szerezni.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemImportInstalledDescription">Játékok importálása a telepített Steam-játékokból</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemFixInstalledStateDescription">Steam-játékok telepítési állapotának és telepítési mappájának javítása</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_MenuItemFillImagesDescription">Hiányzó borítók, hátterek és ikonok pótlása a helyi Steam-gyorsítótárból</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_InstalledGamesWindowTitle">Telepített Steam-játékok</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_SelectAllButton">Összes kijelölése</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_AddButton">Hozzáadás</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_CancelButton">Mégse</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_NoNewInstalledGamesMessage">Nem található új telepített Steam-játék.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_FixInstalledStateResultsMessage">{0} játék frissítve.</sys:String>
+    <sys:String x:Key="LOCSteam_Game_Importer_FillImagesResultsMessage">{0} játék frissítve a helyi Steam-gyorsítótár képeivel.</sys:String>
+</ResourceDictionary>

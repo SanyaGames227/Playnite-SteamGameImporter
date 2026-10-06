@@ -1,0 +1,12 @@
+Id: Steam_Game_Importer
+Name: Steam Game Importer
+Author: darklinkpower
+Version: 2.12
+Module: SteamGameImporter.psm1
+Type: Script
+Icon: icon.png
+Links:
+    - Name: GitHub (fork)
+      Url: https://github.com/SanyaGames227/Playnite-SteamGameImporter
+    - Name: GitHub (original)
+      Url: https://github.com/darklinkpower/PlayniteExtensionsCollection
